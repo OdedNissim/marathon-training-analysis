@@ -14,7 +14,8 @@ I will share key insights and takeaways, about running, training, and improvemen
 The following graph shows the total kilometers per training week.  
 A steady upward trend can be observed, with planned recovery weeks built into the program.
 
-![Weekly Volume](https://github.com/user-attachments/assets/8b037168-4fba-461c-b102-2e3f10283084)
+![Weekly Volume](https://github.com/user-attachments/assets/3a4fe33e-5ece-47e9-96e1-f2e016f1c59b)
+
 
 ##  Average Running Pace
 This chart illustrates how my pace gradually improved, especially during tempo runs.  
