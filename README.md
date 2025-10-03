@@ -11,11 +11,13 @@ I will share key insights and takeaways, about running, training, and improvemen
 ---
 
 ##  Weekly Running Volume
-The following graph shows the total kilometers per training week.  
-A steady upward trend can be observed, with planned recovery weeks built into the program.
+The following graph shows the total kilometers and training hours per week
 
 ![Weekly Volume](https://github.com/user-attachments/assets/3a4fe33e-5ece-47e9-96e1-f2e016f1c59b)
 
+### Description
+- In 2023, weekly running volume and time were significantly higher but unstable, with a sharp decline in the last two weeks due to injury onset in week six.
+- In 2025, training emphasized gradual, consistent progression—focusing on controlled heart rate and stable pacing.
 
 ##  Average Running Pace
 This chart illustrates how my pace gradually improved, especially during tempo runs.  
