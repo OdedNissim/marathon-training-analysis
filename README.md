@@ -14,19 +14,19 @@ In this project, I’ll share some of the most interesting data insights, along 
 
 ---
 
-## 📈 Weekly Running Volume
+##  Weekly Running Volume
 The following graph shows the total kilometers per training week.  
 A steady upward trend can be observed, with planned recovery weeks built into the program.
 
 ![Weekly Volume](https://github.com/user-attachments/assets/8b037168-4fba-461c-b102-2e3f10283084)
 
-## ⏱️ Average Running Pace
+##  Average Running Pace
 This chart illustrates how my pace gradually improved, especially during tempo runs.  
 **Insight:** A combination of weekly mileage and interval sessions significantly contributed to improved efficiency.
 
 ![Rest Days Between Runs](https://github.com/user-attachments/assets/f26711ee-db09-4be8-9f4a-9bbe4c1bf305)
 
-## ⏱️ Average Running Pace
+##  Average Running Pace
 This chart illustrates how my pace gradually improved, especially during tempo runs.  
 **Insight:** A combination of weekly mileage and interval sessions significantly contributed to improved efficiency.
 
@@ -35,18 +35,16 @@ This chart illustrates how my pace gradually improved, especially during tempo r
 
 ---
 
-## 📝 Key Insights
+##  Key Insights
 - Long, **slow-distance runs** provided a strong aerobic foundation.  
 - Short **interval workouts** improved my ability to sustain faster paces.  
 - Planned **recovery weeks** every 3–4 weeks prevented overtraining and injuries.  
 
 ---
 
-## 🔮 Next Steps
+##  Next Steps
 - Add analysis of **Heart Rate Zones** (aerobic vs anaerobic balance).  
 - Compare current training with my **2023 marathon prep**, where I experienced injury.  
 - Incorporate **nutrition and sleep data** for holistic performance insights.  
 
 ---
-
-## 📂 Project Structure
