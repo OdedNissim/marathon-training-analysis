@@ -1,8 +1,16 @@
 
 # Marathon Training Analysis 🏃‍♂️📊
 
-**This project** presents my journey preparing for the **Tiberias Marathon 2026**.  
-The graphs and insights are based on my personal running data collected from Garmin.
+In 2023, while serving as an operations officer in the Israeli Navy, I decided to take on the challenge of training for my first marathon. Between unpredictable sailing schedules, long nights at sea, and the responsibility of leading sailors, my motivation was at its peak. I woke up at 5 a.m. to run—long distances, lots of them—because marathons are long, and I thought the only way to prepare was to run more and more.
+
+Eight weeks later, I was injured. An ITB injury forced me to stop running for three months, putting the marathon dream back in the drawer.
+
+Two and a half years later, sitting by Lake Atitlán in Guatemala and reflecting on an incredible six-month journey across South America, I felt recharged. I opened that drawer again and decided to give the marathon another chance. This time, I reached out to Yuval, a former Navy teammate who became a professional running coach, and together we built a structured, gradual, and professional training plan.
+
+As someone who loves numbers, I had an idea for a project:
+to take all the running data from my Garmin watch—both from my 2023 training and the first months of my new 2025 plan—and look for patterns, forecasts, and signals. Could I spot the warning signs of the injury back then? What explains why now I feel stronger and healthier?
+
+In this project, I’ll share some of the most interesting data insights, along with my personal takeaways about runningת, and about life.
 
 ---
 
