@@ -1,5 +1,5 @@
 
-# Marathon Training Analysis 🏃‍♂️📊
+# Marathon Training Analysis
 
 In 2023, while serving as an operations officer in the Israeli Navy, I decided to take on the challenge of training for my first marathon. Between unpredictable sailing schedules, long nights at sea, and the responsibility of leading sailors, my motivation was at its peak. I woke up at 5 a.m. to run—long distances, long time, lots of them.
 
