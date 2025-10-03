@@ -1,16 +1,10 @@
 
 # Marathon Training Analysis
 
-In 2023, while serving as an operations officer in the Israeli Navy, I decided to take on the challenge of training for my first marathon. Between unpredictable sailing schedules, long nights at sea, and the responsibility of leading sailors, my motivation was at its peak. I woke up at 5 a.m. to run: long distances, long time, lots of them.
-
-Eight weeks later, I was injured. An ITB injury forced me to stop running for three months, putting the marathon dream back in the drawer.
-
-Two and a half years later, sitting by Lake Atitlán in Guatemala and reflecting on an incredible six-month journey across South America, I felt recharged. I opened that drawer again and decided to give the marathon another chance. This time, I reached out to Yuval, a former Navy teammate who became a professional running coach, and together we built a structured, gradual, and professional training plan.
-
-As someone who loves numbers, I had an idea for a project:
-to take all the running data from my Garmin watch, both from my 2023 training and the first months of my new 2025 plan, look for patterns, forecasts, and signals. Could I spot the warning signs of the injury back then? What explains why now I feel stronger and healthier?
-
-In this project, I’ll share some of the most interesting data insights, along with my personal takeaways about runningת, and about life.
+In 2023, while serving as an Operations Officer in the Israeli Navy, I began training for my first marathon. After only eight weeks, an ITB injury forced me to stop for three months.
+Two and a half years later, after completing a six-month journey across South America, I decided to try again, this time with a structured plan and the guidance of a professional coach.
+As part of this process, I launched a data project analyzing my Garmin training records from both 2023 and 2025. The goal: to identify patterns, understand the early signals of injury, and explore what makes my current preparation stronger and more sustainable.
+I will share key insights and takeaways, about running, training, and improvement, through this project.
 
 ---
 
