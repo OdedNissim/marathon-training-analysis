@@ -18,7 +18,7 @@ In this project, I’ll share some of the most interesting data insights, along 
 The following graph shows the total kilometers per training week.  
 A steady upward trend can be observed, with planned recovery weeks built into the program.
 
-![Weekly Volume](img width="438" height="283" alt="Distance   Time per week" src="https://github.com/user-attachments/assets/8b037168-4fba-461c-b102-2e3f10283084") 
+![Weekly Volume](https://github.com/user-attachments/assets/8b037168-4fba-461c-b102-2e3f10283084)
 
 
 ---
