@@ -1,7 +1,7 @@
 
 # Marathon Training Analysis
 
-In 2023, while serving as an Operations Officer in the Israeli Navy, I began training for my first marathon. 
+In 2023, while serving as an Operational Officer in the Israeli Navy, I began training for my first marathon. 
 After only eight weeks, an ITB injury forced me to stop for three months.
 Two and a half years later, after completing a six-month journey across South America, I decided to try again, this time with a structured plan and the guidance of a professional coach.
 As part of this process, I launched a data project analyzing my Garmin training records from both 2023 and 2025. The goal: to identify patterns, understand the early signals of injury, and explore what makes my current preparation stronger and more sustainable.
