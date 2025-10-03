@@ -1,7 +1,7 @@
 
 # Marathon Training Analysis 🏃‍♂️📊
 
-This project presents my journey preparing for the **Tiberias Marathon 2026*.  
+**This project** presents my journey preparing for the **Tiberias Marathon 2026**.  
 The graphs and insights are based on my personal running data collected from Garmin.
 
 ---
