@@ -27,7 +27,14 @@ A steady upward trend can be observed, with planned recovery weeks built into th
 This chart illustrates how my pace gradually improved, especially during tempo runs.  
 **Insight:** A combination of weekly mileage and interval sessions significantly contributed to improved efficiency.
 
-![Pace Trends](images/pace_trends.png)
+![Rest Days Between Runs](https://github.com/user-attachments/assets/f26711ee-db09-4be8-9f4a-9bbe4c1bf305)![Pace Trends]<img<img width="429" height="276" alt="Pace vs Heart Rate Zone" src="https://github.com/user-
+
+## ⏱️ Average Running Pace
+This chart illustrates how my pace gradually improved, especially during tempo runs.  
+**Insight:** A combination of weekly mileage and interval sessions significantly contributed to improved efficiency.
+
+![Pace vs Heart Rate Zone](https://github.com/user-attachments/assets/ad3b54ac-ed76-4112-b305-edc2097e3027)
+
 
 ---
 
