@@ -20,9 +20,8 @@ The following graph shows the total kilometers and training hours per week
 - In 2023, weekly running volume and time were significantly higher but unstable, with a sharp decline in the last two weeks due to injury onset in week six.
 - In 2025, training emphasized gradual, consistent progression, focusing on controlled heart rate and stable pacing.
 - The variation is clearly illustrated in the graph depicting the absolute week-to-week changes in distance.
-  
-- ![Absolute Value Of Change in Weekly Distance](https://github.com/user-attachments/assets/a56ab5eb-b11a-462a-9f2a-34611ce3435b)
 
+![Absolute Value Of Change in Weekly Distance](https://github.com/user-attachments/assets/a56ab5eb-b11a-462a-9f2a-34611ce3435b)
 
 
 ##  Rest Days Between Runs
