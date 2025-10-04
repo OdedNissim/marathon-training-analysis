@@ -66,7 +66,7 @@ The following graph shows average pace and aerobic heart rate zone.
 1. **Leverage the right people**
    
     Effective growth is amplified by collaboration and expertise. Surrounding yourself with the right mentors and professionals accelerates progress, reduces errors, and transforms knowledge into actionable results. In
-    2025,   partnering with a professional coach translated into structured, efficient, and measurable improvement.
+    2025, partnering with a professional coach translated into structured, efficient, and measurable improvement.
 
 3. **Trust the process**
    
@@ -85,6 +85,7 @@ Analyzing my marathon training data from 2023 and 2025 revealed striking differe
 
 Diving into the data, creating graphs, and using GitHub and Markdown for the first time was an exhilarating experience. I’m halfway to my big goal: **the Dead Sea Marathon 2026**, and I feel stronger, smarter, and more determined than ever.
 
+I also want to take this opportunity to thank my coach, **Yuval Hay**, for her professionalism and guidance throughout my training.
 I will continue to share updates.
 
 ---
