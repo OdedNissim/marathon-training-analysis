@@ -81,7 +81,7 @@ The following graph shows average pace and aerobic heart rate zone.
 ---
 
 ##  Summary
-Analyzing my marathon training data from 2023 and 2025 revealed striking differences in structure, intensity, and recovery—and clear early warning signs of injury in 2023 that I now understand and have learned from.
+Analyzing my marathon training data from 2023 and 2025 revealed striking differences in structure, intensity, and recovery, and clear early warning signs of injury in 2023 that I now understand and have learned from.
 
 Diving into the data, creating graphs, and using GitHub and Markdown for the first time was an exhilarating experience. I’m halfway to my big goal: **the Dead Sea Marathon 2026**, and I feel stronger, smarter, and more determined than ever.
 
