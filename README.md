@@ -13,7 +13,8 @@ Through this project, I will share key insights and takeaways from my marathon t
 ##  Weekly Running Volume
 The following graph shows the total kilometers and training hours per week
 
-![Weekly Volume](https://github.com/user-attachments/assets/cd28fbc8-d314-4f72-b98d-f2e5990e4cd1)
+![Weekly Volume](https://github.com/user-attachments/assets/6166f8b5-433f-4454-a159-50ecb1166bea)
+
 
 ### Description
 - In 2023, weekly running volume and time were significantly higher but unstable, with a sharp decline in the last two weeks due to injury onset in week six.
