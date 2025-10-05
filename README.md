@@ -13,7 +13,7 @@ Through this project, I will share key insights and takeaways from my marathon t
 ##  Weekly Running Volume
 The following graph shows the total running distance per week.
 
-![Weekly Volume](https://github.com/user-attachments/assets/9bd5f675-3d9f-4f70-8f18-441ca5dc89cb)
+![Weekly Volume](https://github.com/user-attachments/assets/10ca4834-0a9b-40bf-bb52-4cf61964765e)
 
 - In 2023, weekly running volume was significantly higher, with a sharp decline in the last two weeks due to injury onset in week six.
 - In 2025, training emphasized gradual, consistent progression, focusing on controlled heart rate and stable pacing.
