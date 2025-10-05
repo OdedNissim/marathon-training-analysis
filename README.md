@@ -11,38 +11,40 @@ Through this project, I will share key insights and takeaways from my marathon t
 ---
 
 ##  Weekly Running Volume
-The following graph shows the total kilometers and training hours per week
+The following graph shows the total running distance per week.
 
-![Weekly Volume](https://github.com/user-attachments/assets/6166f8b5-433f-4454-a159-50ecb1166bea)
+![Weekly Volume](https://github.com/user-attachments/assets/9bd5f675-3d9f-4f70-8f18-441ca5dc89cb)
 
 
-### Description
+
 - In 2023, weekly running volume and time were significantly higher but unstable, with a sharp decline in the last two weeks due to injury onset in week six.
 - In 2025, training emphasized gradual, consistent progression, focusing on controlled heart rate and stable pacing.
 - The variation is clearly illustrated in the graph depicting the absolute week-to-week changes in distance.
 
-![Absolute Value Of Change in Weekly Distance](https://github.com/user-attachments/assets/a56ab5eb-b11a-462a-9f2a-34611ce3435b)
+![Absolute Value Of Change in Weekly Distance](https://github.com/user-attachments/assets/aadbb38b-45d7-42fe-8870-e96a1b9fa7a7)
 
+- In 2023, weekly distance increased irregularly, with fluctuations of up to 5 km between consecutive weeks, indicating poor load management and contributing to injury risk.
+- In 2025, weekly changes were smaller and more consistent (1–3 km), reflecting controlled progression and improved training stability.
 
 ##  Rest Days Between Runs
 The following graph illustrates the number of rest days between each run.
 
-![Rest Days Between Runs](https://github.com/user-attachments/assets/d144e869-f966-4223-ab85-719d6cf9d643)
+![Rest Days Between Runs](https://github.com/user-attachments/assets/b9b069ce-7176-4dd5-af73-e597b1bc5f06)
 
-### Description
-- In 2023, rest days vary widely, including 5–6 day gaps, creating near-week-long inactivity with higher load on remaining runs.
-- In 2025, the schedule is structured with three weekly sessions on consistent days, so most runs are followed by 1–2 rest days.
-  
+
+- In 2023, rest intervals were highly inconsistent, ranging from back-to-back training days to gaps of up to six days, indicating poor load distribution and recovery management.
+- In 2025, rest periods were structured, with most sessions followed by one rest day and no extended breaks. This pattern reflects improved frequency control, balanced recovery, and greater training stability.
+
 ##  Average Pace per Heart Rate Zones
 The following graph shows average pace and aerobic heart rate zone.
 
-![Pace vs Heart Rate Zone](https://github.com/user-attachments/assets/4946c9d3-4993-4dff-a1a5-c264e0fac52e)
+![Pace vs Heart Rate Zone](https://github.com/user-attachments/assets/c6a81eed-73de-4f1d-af9d-7711856fbc11)
 
 
 
-### Description
-- Aerobic Training (AEROBIC TE): Exercise performed at moderate intensity that relies primarily on oxygen-dependent energy systems to improve cardiovascular endurance and efficiency.
-- Scale 1–5: Intensity levels from low (1) to high (5) within the aerobic zone, indicating effort and heart rate relative to individual aerobic capacity.
+- **Aerobic Training (AEROBIC TE):** Exercise performed at moderate intensity that relies primarily on oxygen-dependent energy systems to improve cardiovascular endurance and efficiency.
+
+  **Scale 1–5:** Intensity levels from low (1) to high (5) within the aerobic zone, indicating effort and heart rate relative to individual aerobic capacity.
 - In 2023, several runs reached Zone 5, indicating anaerobic efforts and high week-to-week variability, a clear marker of elevated load and injury risk.
 - In 2025, paces are steadier with moderate aerobic zones, reflecting a structured approach emphasizing controlled intensity and endurance development.
 ---
@@ -83,9 +85,10 @@ The following graph shows average pace and aerobic heart rate zone.
 ##  Summary
 Analyzing my marathon training data from 2023 and 2025 revealed striking differences in structure, intensity, and recovery, and clear early warning signs of injury in 2023 that I now understand and have learned from.
 
-Diving into the data, creating graphs, and using GitHub and Markdown for the first time was an exhilarating experience. I’m halfway to my big goal: **the Dead Sea Marathon 2026**, and I feel stronger, smarter, and more determined than ever.
+Diving into the data, creating graphs, and using GitHub and Markdown for the first time has been a valuable learning experience. I’m halfway to my big goal: **the Dead Sea Marathon 2026**, and feel better prepared, more focused, and on the right track.
 
 I also want to take this opportunity to thank my coach, **Yuval Hay**, for her professionalism and guidance throughout my training.
+
 I will continue to share updates.
 
 ---
