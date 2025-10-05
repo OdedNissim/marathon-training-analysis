@@ -15,8 +15,6 @@ The following graph shows the total running distance per week.
 
 ![Weekly Volume](https://github.com/user-attachments/assets/9bd5f675-3d9f-4f70-8f18-441ca5dc89cb)
 
-
-
 - In 2023, weekly running volume and time were significantly higher but unstable, with a sharp decline in the last two weeks due to injury onset in week six.
 - In 2025, training emphasized gradual, consistent progression, focusing on controlled heart rate and stable pacing.
 - The variation is clearly illustrated in the graph depicting the absolute week-to-week changes in distance.
@@ -39,8 +37,6 @@ The following graph illustrates the number of rest days between each run.
 The following graph shows average pace and aerobic heart rate zone.
 
 ![Pace vs Heart Rate Zone](https://github.com/user-attachments/assets/c6a81eed-73de-4f1d-af9d-7711856fbc11)
-
-
 
 - **Aerobic Training (AEROBIC TE):** Exercise performed at moderate intensity that relies primarily on oxygen-dependent energy systems to improve cardiovascular endurance and efficiency.
 
